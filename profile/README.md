@@ -6,8 +6,11 @@
 <img src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" />
   <img src="https://img.shields.io/badge/swyp-7th-lightblue.svg?cacheSeconds=2592000" />
 </p>
-<p align="middle">모임을 더 쉽게, Meet Mate<br/>
- 약속의 중간 지점을 계산하고 AI로 핫플레이스를 추천하는 플랫폼입니다.
+<p align="middle">모임을 더 쉽게, Meet Mate</p>
+<p align="middle">
+약속의 중간 지점을 계산하고 AI로 핫플레이스를 추천하는 플랫폼으로<br/>
+  사용자가 함께 모임을 계획하고, 마무리하는 전체 과정을 더욱 효율적이고 편리하게 <br/>
+  진행할 수 있도록 도움을 주는 서비스입니다.
 </p>
 
  <br/>
